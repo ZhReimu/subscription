@@ -268,7 +268,7 @@
 | 金十数据               | [com.jin10](/docs/com.jin10.md)                                                                                                                                   | 4      |
 | 囧次元                 | [com.viva.note](/docs/com.viva.note.md)                                                                                                                           | 2      |
 | 剧多多                 | [com.juduoduo.app](/docs/com.juduoduo.app.md)                                                                                                                     | 1      |
-| 拷貝漫畫               | [com.copymanga.app](/docs/com.copymanga.app.md)                                                                                                                   | 5      |
+| 拷貝漫畫               | [com.copymanga.app](/docs/com.copymanga.app.md)                                                                                                                   | 6      |
 | kds宽带山              | [net.pchome.kds](/docs/net.pchome.kds.md)                                                                                                                         | 1      |
 | 可可影视               | [com.keke.ysh1.tz08051h](/docs/com.keke.ysh1.tz08051h.md)                                                                                                         | 1      |
 | 肯德基                 | [com.yek.android.kfc.activitys](/docs/com.yek.android.kfc.activitys.md)                                                                                           | 1      |
@@ -462,7 +462,7 @@
 | 维护大师               | [com.example.maintenancemaster](/docs/com.example.maintenancemaster.md)                                                                                           | 1      |
 | 微视                   | [com.tencent.weishi](/docs/com.tencent.weishi.md)                                                                                                                 | 1      |
 | 微拾                   | [com.pleasure.trace_wechat](/docs/com.pleasure.trace_wechat.md)                                                                                                   | 2      |
-| 微信                   | [com.tencent.mm](/docs/com.tencent.mm.md)                                                                                                                         | 20     |
+| 微信                   | [com.tencent.mm](/docs/com.tencent.mm.md)                                                                                                                         | 21     |
 | 微信读书               | [com.tencent.weread](/docs/com.tencent.weread.md)                                                                                                                 | 2      |
 | 微音乐                 | [com.zhouyu.music](/docs/com.zhouyu.music.md)                                                                                                                     | 2      |
 | 文件                   | [com.android.documentsui](/docs/com.android.documentsui.md)                                                                                                       | 2      |

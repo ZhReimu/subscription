@@ -1,6 +1,6 @@
 # 微信
 
-存在 20 规则组 - [com.tencent.mm](/src/apps/com.tencent.mm.ts)
+存在 21 规则组 - [com.tencent.mm](/src/apps/com.tencent.mm.ts)
 
 ## 分段广告-朋友圈广告
 
@@ -24,13 +24,6 @@
 - [快照-0](https://i.gkd.li/import/12905837)
 - [快照-1](https://i.gkd.li/import/12905838)
 - [快照-2](https://i.gkd.li/import/12905846)
-
-## 分段广告-朋友圈广告[繁体]
-
-默认禁用 - 点击广告卡片右上角[廣告],出现菜单点击[關閉此廣告],确认关闭
-
-- [快照-0](https://i.gkd.li/import/13791200)
-- [快照-1](https://i.gkd.li/import/13791202)
 
 ## 功能类-电脑微信快捷自动登录
 
@@ -167,3 +160,14 @@
 
 - [快照-0](https://i.gkd.li/import/13790550)
 - [快照-1](https://i.gkd.li/import/13790949)
+
+## 分段广告-朋友圈广告[繁体]
+
+默认禁用 - 点击广告卡片右上角[廣告],出现菜单点击[關閉此廣告],确认关闭
+
+- [快照-0](https://i.gkd.li/import/13791200)
+- [快照-1](https://i.gkd.li/import/13791202)
+
+## 开屏广告-星穹铁道工坊小程序
+
+- [快照-0](https://i.gkd.li/import/14075512)

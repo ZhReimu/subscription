@@ -1,6 +1,6 @@
 # 拷貝漫畫
 
-存在 5 规则组 - [com.copymanga.app](/src/apps/com.copymanga.app.ts)
+存在 6 规则组 - [com.copymanga.app](/src/apps/com.copymanga.app.ts)
 
 ## 弹窗广告
 
@@ -52,3 +52,7 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13233180)
+
+## 开屏广告-选择完线路后弹出的广告
+
+- [快照-0](https://i.gkd.li/import/14075553)
