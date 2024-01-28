@@ -202,5 +202,34 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 7,
+      name: '开屏广告-两联发开屏广告其一',
+      rules: [
+        {
+          activityIds:
+            'com.reaper.flutter.reaper_flutter_plugin.activity.ReaperSplashActivity',
+          matches: '@ImageView -2 TextView',
+          exampleUrls:
+            'https://m.gkd.li/58155247/12f7031c-3428-4eba-96f4-e2c96bec6067',
+          snapshotUrls: 'https://i.gkd.li/import/14076028',
+        },
+      ],
+    },
+    {
+      key: 8,
+      name: '开屏广告-两联发开屏广告其二',
+      rules: [
+        {
+          quickFind: true,
+          activityIds:
+            'com.reaper.flutter.reaper_flutter_plugin.activity.ReaperSplashActivity',
+          matches: '[text="跳过"]',
+          exampleUrls:
+            'https://m.gkd.li/58155247/738d1233-d669-43ff-96e6-d9681064e1af',
+          snapshotUrls: 'https://i.gkd.li/import/14076023',
+        },
+      ],
+    },
   ],
 });
