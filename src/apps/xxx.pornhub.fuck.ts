@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '开屏广告-公告弹窗',
+      name: '功能类-公告弹窗',
       activityIds: [
         'app.lawnchair.LawnchairLauncher',
         'com.miui.home.launcher.Launcher',
