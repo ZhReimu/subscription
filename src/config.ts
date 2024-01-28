@@ -4,15 +4,15 @@ import apps from './rawApps';
 import type { RawSubscription } from './types';
 
 const subsConfig: RawSubscription = {
-  id: 0,
+  id: 1,
   version: 0,
-  name: '默认订阅',
-  author: 'lisonge',
-  supportUri: 'https://github.com/gkd-kit/subscription',
+  name: '自用订阅',
+  author: 'ZhReimu',
+  supportUri: 'https://github.com/ZhReimu/subscription',
   updateUrl:
-    'https://registry.npmmirror.com/@gkd-kit/subscription/latest/files',
+    'https://ghproxy.net/https://raw.githubusercontent.com/ZhReimu/subscription/master/dist/gkd.json5',
   checkUpdateUrl:
-    'https://registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.version.json',
+    'https://ghproxy.net/https://raw.githubusercontent.com/ZhReimu/subscription/master/dist/gkd.version.json',
   globalGroups,
   categories,
   apps,
