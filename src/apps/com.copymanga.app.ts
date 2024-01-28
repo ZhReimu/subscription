@@ -190,5 +190,17 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 6,
+      name: '开屏广告-选择完线路后弹出的广告',
+      rules: [
+        {
+          name: '进去弹出通知后第一个恶心人的广告',
+          matches: ['ViewGroup > ViewGroup[childCount=1] > ImageView'],
+          snapshotUrls: ['https://i.gkd.li/import/14075553'],
+          activityIds: ['com.copymanga.app.MainActivity'],
+        },
+      ],
+    },
   ],
 });
