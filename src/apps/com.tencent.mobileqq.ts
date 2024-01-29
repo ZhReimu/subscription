@@ -445,5 +445,15 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 22,
+      name: '更新提示-搜索框下边的黄字更新提示',
+      rules: [
+        {
+          activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
+          matches: '[id="com.tencent.mobileqq:id/azf" && desc="关闭"]',
+        },
+      ],
+    },
   ],
 });
