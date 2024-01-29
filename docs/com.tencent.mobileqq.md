@@ -1,6 +1,6 @@
 # QQ
 
-存在 20 规则组 - [com.tencent.mobileqq](/src/apps/com.tencent.mobileqq.ts)
+存在 21 规则组 - [com.tencent.mobileqq](/src/apps/com.tencent.mobileqq.ts)
 
 ## 开屏广告
 
@@ -164,3 +164,7 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13797876)
+
+## 更新提示-搜索框下边的黄字更新提示
+
+默认禁用

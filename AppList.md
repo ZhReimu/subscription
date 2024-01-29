@@ -29,7 +29,7 @@
 | OurPlay                | [com.excean.gspace](/docs/com.excean.gspace.md)                                                                                                                   | 1      |
 | PicACG                 | [com.picacomic.fregata](/docs/com.picacomic.fregata.md)                                                                                                           | 5      |
 | QCY                    | [com.qcymall.earphonesetup](/docs/com.qcymall.earphonesetup.md)                                                                                                   | 1      |
-| QQ                     | [com.tencent.mobileqq](/docs/com.tencent.mobileqq.md)                                                                                                             | 20     |
+| QQ                     | [com.tencent.mobileqq](/docs/com.tencent.mobileqq.md)                                                                                                             | 21     |
 | RAR                    | [com.rarlab.rar](/docs/com.rarlab.rar.md)                                                                                                                         | 1      |
 | RayLink                | [com.example.raylink_flutter](/docs/com.example.raylink_flutter.md)                                                                                               | 1      |
 | Reddit                 | [com.reddit.frontpage](/docs/com.reddit.frontpage.md)                                                                                                             | 2      |
